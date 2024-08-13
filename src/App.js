@@ -2,7 +2,6 @@ import logo from './logo.svg';
 import './App.css';
 import Box from "./component/Box"
 
-
 import {useState} from "react";
 //바뀌어야 되는 부분이 있때
 //1. 박스 2개(타이틀, 사진, 결과)
