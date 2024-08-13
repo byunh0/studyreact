@@ -7,7 +7,6 @@ const Box = (props) => {
  {result = props.result === "win" ? "lose": "win"}else{
     result = props.result;
  }
-
   return (
     <div className={`box ${result}`}>
       <h3>{props.title}</h3>
@@ -16,5 +15,4 @@ const Box = (props) => {
     </div>
   );
 }
-
 export default Box
