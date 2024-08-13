@@ -25,7 +25,6 @@ const choice={
     name:"Paper",
     img: "https://png.pngtree.com/element_our/20190531/ourlarge/pngtree-a-notebook-paper-image_1297634.jpg"
   }
-
 }
 function App() {
 
