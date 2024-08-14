@@ -27,7 +27,6 @@ const choice={
   }
 }
 function App() {
-
  const [userSelect,setUserSelect] =useState(null)
 
  const [computerSelect, setComputerSelect] = useState(null)
